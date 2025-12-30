@@ -1,8 +1,0 @@
-{
-  "name": "A Letter for You",
-  "description": "A romantic interactive letter experience designed to confess feelings with a rating system and a heartfelt message for the future.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
